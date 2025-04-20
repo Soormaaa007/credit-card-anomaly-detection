@@ -1,6 +1,4 @@
-#Great! Here's a polished `README.md` tailored specifically for your GitHub repository — with markdown elements, badges, and sections that make it look clean and professional:
 
----
 
 ```markdown
 # 💳 Credit Card Fraud Detection using Logistic Regression
